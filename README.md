@@ -12,9 +12,9 @@
   DB_USERNAME=root
   DB_PASSWORD=
   ```
-- Lanjut jalankan php artisan migrate
-- Jalankan juga php artisan db:seed
-- Dan yang terakhir jalankan php artisan serve
+- Lanjut jalankan `php artisan migrate`
+- Jalankan juga `php artisan db:seed`
+- Dan yang terakhir jalankan `php artisan serve`
 - Login System dengan mengguanka account
   ```
   LOGIN ADMIN
